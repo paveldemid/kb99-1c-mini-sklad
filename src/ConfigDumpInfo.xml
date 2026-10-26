@@ -4,14 +4,14 @@
 		<Metadata name="Catalog.Контрагенты" id="9626957a-9632-4b46-a58c-cfea97054e9e" configVersion="b0c23f555394d1458219bb9a0ff7132d00000000"/>
 		<Metadata name="Catalog.Товары" id="7326a035-7a8d-4a77-8609-e04a32f913a9" configVersion="a31a7fa956d0954d926191ac0f3cb4b700000000"/>
 		<Metadata name="Configuration.Конфигурация" id="9aeca3b2-de6b-4cfa-9d77-1c5c27b0e8fa" configVersion="80a232662af22d429a4922b23102b6d300000000"/>
-		<Metadata name="Document.Поступление" id="f9ff93bf-6192-4cbd-9577-f263af1996a9" configVersion="5c8aeae0ed501440b699a126d27b13dc00000000">
+		<Metadata name="Document.Поступление" id="f9ff93bf-6192-4cbd-9577-f263af1996a9" configVersion="18f32b1a97756e41b6ac3105257dc79d00000000">
 			<Metadata name="Document.Поступление.Attribute.Количество" id="32bc9b0f-360a-4202-b2fc-43eb30600977"/>
 			<Metadata name="Document.Поступление.Attribute.Товар" id="6b2cf7e2-f190-446c-aca9-f18e13df6347"/>
 			<Metadata name="Document.Поступление.Attribute.Контрагент" id="f508c500-8036-49b2-b5e1-9bc842a78cc7"/>
 		</Metadata>
-		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="b6796c46-5f0b-45c8-b721-5c20d23da349" configVersion="9af73a25c7d8274985d266bc8533426c00000000"/>
-		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="b6796c46-5f0b-45c8-b721-5c20d23da349.0" configVersion="056dc8093e1c0644b48ce8c25e57ae9000000000"/>
-		<Metadata name="Document.Реализация" id="b7aa79c5-5752-4ddb-bc27-b4e1a174fcd7" configVersion="786bc2bf2e305542a2626b12e219b64500000000">
+		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="b6796c46-5f0b-45c8-b721-5c20d23da349" configVersion="a184feea391e334b9625aad99962fabf00000000"/>
+		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="b6796c46-5f0b-45c8-b721-5c20d23da349.0" configVersion="1491de8631d9634da4f2c2aab118310a00000000"/>
+		<Metadata name="Document.Реализация" id="b7aa79c5-5752-4ddb-bc27-b4e1a174fcd7" configVersion="6d3fb02d434ab44a8c0cf4a7ce17384600000000">
 			<Metadata name="Document.Реализация.Attribute.Количество" id="1c4a7191-bcf5-4477-aced-d756405ebf17"/>
 			<Metadata name="Document.Реализация.Attribute.Товар" id="5bae0b88-3306-4a9e-8327-e56cd28d3046"/>
 			<Metadata name="Document.Реализация.Attribute.Контрагент" id="d14c1d1e-507d-4c02-843f-94b7ede1e637"/>
